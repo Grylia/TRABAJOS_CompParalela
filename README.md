@@ -1,0 +1,2 @@
+# TRABAJOS_CompParalela
+trabajos
